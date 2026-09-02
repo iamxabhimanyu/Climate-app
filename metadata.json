@@ -1,0 +1,6 @@
+{
+  "name": "ClimaIQ — Weather Intelligence",
+  "description": "Personalized environmental and weather intelligence with actionable activity insights, risk scoring, travel packing, and AI assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
